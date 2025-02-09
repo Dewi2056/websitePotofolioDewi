@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #C5D3E8;
+}
+
+#projects {
+    background-color: #C5D3E8;  
+}
+#artikel{
+    background-color: #fff;
+}
+#contact{
+    background-color: #C5D3E8;
+}
+section {
+    padding-top: 5rem;
+}
+#project-img {
+    height: 200px; /* Atur tinggi gambar */
+    object-fit: cover; /* Pastikan gambar tetap proporsional */
+}
